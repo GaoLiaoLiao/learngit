@@ -1,0 +1,15 @@
+# CMake build directories
+build/
+build.*/
+
+# Windows executables
+*.exe
+
+# Object files
+*.o
+
+# Vim swap files
+.*.sw?
+
+# Mac Finder config crap
+.DS_Store

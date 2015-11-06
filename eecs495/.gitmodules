@@ -1,0 +1,3 @@
+[submodule "lectures/2015-11-03/3rdparty/unittest-cpp"]
+	path = lectures/2015-11-03/3rdparty/unittest-cpp
+	url = https://github.com/tov/unittest-cpp.git
